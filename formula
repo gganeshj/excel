@@ -1,0 +1,4 @@
+1. Forumula to create Sql query from excel column:
+   ="insert into epp_item(product_id,item_name,description,price) values (7,'"&B3&"','" &C3&"','"&D3&"');"
+   
+2.    
